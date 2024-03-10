@@ -38,3 +38,8 @@ Das türkische Alphabet hat 29 Buchstaben: 21 Konsonanten und 8 Vokale.
 ## Zahlen
 
 Zahlen werden im türkischen nach einem regelmäßigen Muster gebildet.
+
+| Zahlenwörter | Übersetzung |
+| - | - |
+| bir | eins |
+| iki | zwei | 
