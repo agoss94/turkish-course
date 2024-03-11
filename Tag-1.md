@@ -51,4 +51,23 @@ Zahlen werden im türkischen nach einem regelmäßigen Muster gebildet.
 | sekiz | acht |
 | dokuz | neun |
 | on | zehn |
+| yirmi | zwanzig |
+| otuz | dreizig |
+| kırk | vierzig |
+| elli | fünfzig |
+| altmış | sechzig |
+| yedmiş | siebzig |
+| seksen | achtzig |
+| doksan | neunzig |
+| yüz | hundert |
+| bin | tausend |
 
+Nun werden zum bilden einer Zahl die Zahlwörter aneinander gereiht änhlich wie im deutschen. 
+
+	1256 = bin iki yüz elli altı
+
+Beim Rechnen werden die Rechenoperationen ebenfalls übersetzt:
+
+| Operator | Türkisch |
+| - | - |
+| + | artl |
