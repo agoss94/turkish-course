@@ -96,3 +96,7 @@ Die türkische Grammatik folgt stets der kleinen und großen Vokalharmonie. Vers
 | e, i | i |
 | o, u | u |
 | ö, ü | ü |
+
+## Pluralbildung
+
+Der Plural wird nach der kleinen Vokalharmonie gebildet. 
