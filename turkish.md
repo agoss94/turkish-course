@@ -71,3 +71,28 @@ Beim Rechnen werden die Rechenoperationen ebenfalls übersetzt:
 | Operator | Türkisch |
 | - | - |
 | + | artl |
+| - | eksi |
+| * | çarpı |
+| % | bölü |
+| = | eşit/eşittir |
+
+## Vokalharmonie 
+
+
+Die türkische Grammatik folgt stets der kleinen und großen Vokalharmonie. Verschiedene Deklinationen werden nach einer der beiden Regeln gebildet. 
+
+### Kleine Vokalharmonie
+
+| Vokal | Endung |
+| - | - |
+|a, ı, o, u | a |
+|e, i, ö, ü | e |
+
+### Große Vokalharmonie
+
+| Vokal | Endung |
+| - | - |
+| a, ı| ı |
+| e, i | i |
+| o, u | u |
+| ö, ü | ü |
