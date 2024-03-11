@@ -45,3 +45,10 @@ Zahlen werden im türkischen nach einem regelmäßigen Muster gebildet.
 | iki | zwei | 
 | üç | drei |
 | dört | vier |
+| beç | fünf |
+| altı | sechs |
+| yedi | sieben |
+| sekiz | acht |
+| dokuz | neun |
+| on | zehn |
+
