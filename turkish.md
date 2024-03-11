@@ -107,4 +107,12 @@ oder
 
 	ev -> evler
 
+Allgemein gilt für die Endung, dass nach Vokalharmonie der letzte Vokal die Pluralendung bestimmt. somit haben wir folgende Möglichkeiten:
 
+
+| Vokal | Endung |
+| - | - |
+|a, ı, o, u | -lar |
+|e, i, ö, ü | -ler 
+
+## Fragepronome|
