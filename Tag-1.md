@@ -43,3 +43,5 @@ Zahlen werden im türkischen nach einem regelmäßigen Muster gebildet.
 | - | - |
 | bir | eins |
 | iki | zwei | 
+| üç | drei |
+| dört | vier |
