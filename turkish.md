@@ -128,6 +128,18 @@ Das Türkische kennt wie die deutsche Sprache 6 Personalpronomen.
 | Siz | 2. Person Plural | Sie |
 | Onlar | 3. Person Plural | Die |
 
-Deklinationen mit Personalpronomen folgen in der Regel immer der großen Vokalharmonie. Allerdings müssen wir zusätzlich unterscheiden, ob ein Wort auf einen Vokal endet oder einem Konsonanten. Bei Vokalendung erfordert die 1. und 4. Person einen zusätzlichen Bindekonsonant <code>y</code>.
+Deklinationen mit Personalpronomen folgen in der Regel immer der großen Vokalharmonie. Allerdings müssen wir zusätzlich unterscheiden, ob ein Wort auf einen Vokal endet oder einem Konsonanten. Bei Vokalendung erfordert die 1. und 4. Person einen zusätzlichen Bindekonsonant <code>y</code>. 
+
+Wir verdeutlichen dies an den Beispielwörtern <code>öğretmen</code> und <code>öğrenci</code>, welche übersetzt Lehrer und Schüler bedeuten. Tuerst deklinieren wir das Wort öğretmen. Dieses endet auf einen Konsonanten, somit benötigen wir keinen Bindekonsonant. 
+
+| Person | Beispiel | Übersetzung |
+|-|-|-|
+| 1. | Ben öğretmen*im* | Ich bin Lehrer |
+| 2. | Sen öğretmen*sin* | Du bist Lehrer |
+| 3. | O öğretmen | Er/ Sie/ Es ist Lehrer |
+| 4. | Biz öğretmen*iz* | Wir sind Lehrer |
+| 5. | Siz öğretmen*siniz* | Sie sind Lehrer |
+| 6. | Onlar öğretmen <code>oder</code> öğretmen*ler* | Die Lehrer |
+
 
 
