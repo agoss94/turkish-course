@@ -37,7 +37,7 @@ Das türkische Alphabet hat 29 Buchstaben: 21 Konsonanten und 8 Vokale.
 
 ## Zahlen
 
-Zahlen werden im türkischen nach einem regelmäßigen Muster gebildet.
+Zahlen werden im Türkischen nach einem regelmäßigen Muster gebildet.
 
 | Zahlenwörter | Übersetzung |
 | - | - |
@@ -62,7 +62,7 @@ Zahlen werden im türkischen nach einem regelmäßigen Muster gebildet.
 | yüz | hundert |
 | bin | tausend |
 
-Nun werden zum bilden einer Zahl die Zahlwörter aneinander gereiht änhlich wie im deutschen. 
+Nun werden zum bilden einer Zahl die Zahlwörter aneinander gereiht änhlich wie im Deutschen. 
 
 	1256 = bin iki yüz elli altı
 
@@ -113,6 +113,21 @@ Allgemein gilt für die Endung, dass nach Vokalharmonie der letzte Vokal die Plu
 | Vokal | Endung |
 | - | - |
 |a, ı, o, u | -lar |
-|e, i, ö, ü | -ler 
+|e, i, ö, ü | -ler |
 
-## Fragepronome|
+## Personalpronomen
+
+Das Türkische kennt wie die deutsche Sprache 6 Personalpronomen.
+
+| Pronom | Person | Übersetzung |
+|-|-|-|
+| Ben | 1. Person Singular | Ich |
+| Sen | 2. Person Singular | Du |
+| O | 3. Person Singular | Er/ Sie/ Es |
+| Biz | 1. Person Plural | Wir |
+| Siz | 2. Person Plural | Sie |
+| Onlar | 3. Person Plural | Die |
+
+Deklinationen mit Personalpronomen folgen in der Regel immer der großen Vokalharmonie. Allerdings müssen wir zusätzlich unterscheiden, ob ein Wort auf einen Vokal endet oder einem Konsonanten. Bei Vokalendung erfordert die 1. und 4. Person einen zusätzlichen Bindekonsonant <code>y<code/>.
+
+
