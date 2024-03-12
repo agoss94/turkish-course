@@ -134,12 +134,24 @@ Wir verdeutlichen dies an den Beispielwörtern <code>öğretmen</code> und <code
 
 | Person | Beispiel | Übersetzung |
 |-|-|-|
-| 1. | Ben öğretmen*im* | Ich bin Lehrer |
-| 2. | Sen öğretmen*sin* | Du bist Lehrer |
+| 1. | Ben öğretmen**im** | Ich bin Lehrer |
+| 2. | Sen öğretmen**sin** | Du bist Lehrer |
 | 3. | O öğretmen | Er/ Sie/ Es ist Lehrer |
-| 4. | Biz öğretmen*iz* | Wir sind Lehrer |
-| 5. | Siz öğretmen*siniz* | Sie sind Lehrer |
-| 6. | Onlar öğretmen <code>oder</code> öğretmen*ler* | Die Lehrer |
+| 4. | Biz öğretmen**iz** | Wir sind Lehrer |
+| 5. | Siz öğretmen**siniz** | Sie sind Lehrer |
+| 6. | Onlar öğretmen <code>oder</code> öğretmen**ler** | Die Lehrer |
+
+Die Personalendungen sing groß makiert und der/die Vokale werden nach der großen Vokalharmonie bestimmt. Bei Vokalendung sind die meisten Deklinationen gleich, allerdings haben die 1. und 4. Person einen Bindekonsonanten.
+
+
+| Person | Beispiel | Übersetzung |
+|-|-|-|
+| 1. | Ben öğrenci**yim** | Ich bin Schüler |
+| 2. | Sen öğrenci**sin** | Du bist Schüler|
+| 3. | O öğrenci| Er/ Sie/ Es ist Schüler|
+| 4. | Biz öğrenci**iz** | Wir sind Schüler|
+| 5. | Siz öğrenci**siniz** | Sie sind Schüler|
+| 6. | Onlar öğrenci<code>oder</code> öğrenci**ler** | Die Schüler|
 
 
 
