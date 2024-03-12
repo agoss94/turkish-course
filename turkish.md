@@ -128,6 +128,6 @@ Das Türkische kennt wie die deutsche Sprache 6 Personalpronomen.
 | Siz | 2. Person Plural | Sie |
 | Onlar | 3. Person Plural | Die |
 
-Deklinationen mit Personalpronomen folgen in der Regel immer der großen Vokalharmonie. Allerdings müssen wir zusätzlich unterscheiden, ob ein Wort auf einen Vokal endet oder einem Konsonanten. Bei Vokalendung erfordert die 1. und 4. Person einen zusätzlichen Bindekonsonant <code>y<code/>.
+Deklinationen mit Personalpronomen folgen in der Regel immer der großen Vokalharmonie. Allerdings müssen wir zusätzlich unterscheiden, ob ein Wort auf einen Vokal endet oder einem Konsonanten. Bei Vokalendung erfordert die 1. und 4. Person einen zusätzlichen Bindekonsonant <code>y</code>.
 
 
