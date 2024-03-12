@@ -149,9 +149,10 @@ Die Personalendungen sing groß makiert und der/die Vokale werden nach der groß
 | 1. | Ben öğrenci**yim** | Ich bin Schüler |
 | 2. | Sen öğrenci**sin** | Du bist Schüler|
 | 3. | O öğrenci| Er/ Sie/ Es ist Schüler|
-| 4. | Biz öğrenci**iz** | Wir sind Schüler|
+| 4. | Biz öğrenci**yiz** | Wir sind Schüler|
 | 5. | Siz öğrenci**siniz** | Sie sind Schüler|
-| 6. | Onlar öğrenci<code>oder</code> öğrenci**ler** | Die Schüler|
+| 6. | Onlar öğrenci <code>oder</code> öğrenci**ler** | Die Schüler|
+
 
 
 
