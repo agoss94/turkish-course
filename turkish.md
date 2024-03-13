@@ -153,6 +153,32 @@ Die Personalendungen sing groß makiert und der/die Vokale werden nach der groß
 | 5. | Siz öğrenci**siniz** | Sie sind Schüler|
 | 6. | Onlar öğrenci <code>oder</code> öğrenci**ler** | Die Schüler|
 
+## Fragepartikel mi
+Für einfache Ja-Nein-Fragen benutze wir Fragepartikel. Diese werden ebenfalls nach der großen Vokalharmonie dekliniert. 
 
+|Vokal | Endung |
+|-|-|
+|a, ı | mı |
+|o, u | mu |
+|e, i | mi |
+|ö, ü | mü |
+
+Zusatzlich wird eine Personalendung angefügt, um den Addressat der Frage erfassen zu können. Wir mach dies an ein paar Beispielen deutlich. Zum Beispiel können wir wie folgt fragen, ob das Wetter sonnig ist:
+
+	Hava güneşli mi?
+
+Da das Wetter hier in der 3. Person steht wird keine Personalendung angefügt. Die Frage kann nun mit ja oder nein beantwortet werden. Bei einer positiven Antwort sagen wir
+
+	Evet, hava güneşli
+
+bei einer negativen hingegen müssen wir sagen
+
+	Hayir, hava güneşli değil
+
+Das Wort <code>değil</code> gehört hier zur Negation und bedeutet "nicht" und ist daher wichtig bei einer negativen Antwort mit anzugeben. Die Frage kann auch direkt negativ formuliert werden
+
+	Hava güneşli değil mi? 
+
+## Herkunftssuffix -li
 
 
