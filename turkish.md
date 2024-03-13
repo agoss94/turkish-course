@@ -179,6 +179,13 @@ Das Wort <code>değil</code> gehört hier zur Negation und bedeutet "nicht" und 
 
 	Hava güneşli değil mi? 
 
+Dies ist ein Beispiel für eine Ja-Nein-Frage in 3. Person. Wenn wir jemanden direkt mit einer Frage addressieren, so wird das Fragepartikel nach der großen Vokalharmonie entsprechend den Personalendungen dekliniert. Zum Beispiel mit der Frage 
+
+	Sen Alman mısın? <-> Bist du Deutsch?
+
+oder in der Höflichkeitsform
+
+	Siz Alman mısınız? <-> Sind sie Deutsch?
 ## Herkunftssuffix -li
 
-
+Über ein Herkunftssuffix kann jemand angeben oder fragen, ob dieser aus einer bestimmten Stadt kommt. Wichtig ist zu beachten, dass das Herkunftssuffix nur für Stadte und nicht für Länder benutzt wird. Herkunftssuffixe werden nach der großen Vokalharmonie dekliniert. 
