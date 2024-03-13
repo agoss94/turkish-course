@@ -186,6 +186,19 @@ Dies ist ein Beispiel für eine Ja-Nein-Frage in 3. Person. Wenn wir jemanden di
 oder in der Höflichkeitsform
 
 	Siz Alman mısınız? <-> Sind sie Deutsch?
+
 ## Herkunftssuffix -li
 
-Über ein Herkunftssuffix kann jemand angeben oder fragen, ob dieser aus einer bestimmten Stadt kommt. Wichtig ist zu beachten, dass das Herkunftssuffix nur für Stadte und nicht für Länder benutzt wird. Herkunftssuffixe werden nach der großen Vokalharmonie dekliniert. 
+Über ein Herkunftssuffix kann jemand angeben oder fragen, ob dieser aus einer bestimmten Stadt kommt. Wichtig ist zu beachten, dass das Herkunftssuffix nur für Stadte und nicht für Länder benutzt wird. Herkunftssuffixe werden nach der großen Vokalharmonie dekliniert. Wir machen das Beispiel
+
+	Sen İstanbullu musun? <-> Bist du aus Istanbul?
+
+mit der Antwort
+
+	Evet, İstanbulluyum <-> Ja, ich bin aus Istanbul
+
+oder 
+
+	Hayir, İstanbullu değilim.
+
+
