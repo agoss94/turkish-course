@@ -153,7 +153,7 @@ Die Personalendungen sing groß makiert und der/die Vokale werden nach der groß
 | 5. | Siz öğrenci**siniz** | Sie sind Schüler|
 | 6. | Onlar öğrenci <code>oder</code> öğrenci**ler** | Die Schüler|
 
-## Fragepartikel mi
+## Fragepartikel *mi*
 Für einfache Ja-Nein-Fragen benutze wir Fragepartikel. Diese werden ebenfalls nach der großen Vokalharmonie dekliniert. 
 
 |Vokal | Endung |
@@ -187,7 +187,7 @@ oder in der Höflichkeitsform
 
 	Siz Alman mısınız? <-> Sind sie Deutsch?
 
-## Herkunftssuffix -li
+## Herkunftssuffix *-li*
 
 Über ein Herkunftssuffix kann jemand angeben oder fragen, ob dieser aus einer bestimmten Stadt kommt. Wichtig ist zu beachten, dass das Herkunftssuffix nur für Stadte und nicht für Länder benutzt wird. Herkunftssuffixe werden nach der großen Vokalharmonie dekliniert. Wir machen das Beispiel
 
