@@ -64,7 +64,7 @@ Zahlen werden im Türkischen nach einem regelmäßigen Muster gebildet.
 
 Nun werden zum bilden einer Zahl die Zahlwörter aneinander gereiht änhlich wie im Deutschen. 
 
-	1256 = bin iki yüz elli altı
+> 1256 = bin iki yüz elli altı
 
 Beim Rechnen werden die Rechenoperationen ebenfalls übersetzt:
 
@@ -101,11 +101,11 @@ Die türkische Grammatik folgt stets der kleinen und großen Vokalharmonie. Vers
 
 Der Plural wird nach der kleinen Vokalharmonie gebildet. 
 
-	kitap -> kitaplar
+> kitap -> kitaplar
 
 oder 
 
-	ev -> evler
+> ev -> evler
 
 Allgemein gilt für die Endung, dass nach Vokalharmonie der letzte Vokal die Pluralendung bestimmt. somit haben wir folgende Möglichkeiten:
 
@@ -139,7 +139,7 @@ Wir verdeutlichen dies an den Beispielwörtern <code>öğretmen</code> und <code
 | 3. | O öğretmen | Er/ Sie/ Es ist Lehrer |
 | 4. | Biz öğretmen**iz** | Wir sind Lehrer |
 | 5. | Siz öğretmen**siniz** | Sie sind Lehrer |
-| 6. | Onlar öğretmen <code>oder</code> öğretmen**ler** | Die Lehrer |
+| 6. | Onlar öğretmen *oder* öğretmen**ler** | Die Lehrer |
 
 Die Personalendungen sing groß makiert und der/die Vokale werden nach der großen Vokalharmonie bestimmt. Bei Vokalendung sind die meisten Deklinationen gleich, allerdings haben die 1. und 4. Person einen Bindekonsonanten.
 
@@ -165,40 +165,40 @@ Für einfache Ja-Nein-Fragen benutze wir Fragepartikel. Diese werden ebenfalls n
 
 Zusatzlich wird eine Personalendung angefügt, um den Addressat der Frage erfassen zu können. Wir mach dies an ein paar Beispielen deutlich. Zum Beispiel können wir wie folgt fragen, ob das Wetter sonnig ist:
 
-	Hava güneşli mi?
+> Hava güneşli mi?
 
 Da das Wetter hier in der 3. Person steht wird keine Personalendung angefügt. Die Frage kann nun mit ja oder nein beantwortet werden. Bei einer positiven Antwort sagen wir
 
-	Evet, hava güneşli
+> Evet, hava güneşli
 
 bei einer negativen hingegen müssen wir sagen
 
-	Hayir, hava güneşli değil
+> Hayir, hava güneşli değil
 
 Das Wort <code>değil</code> gehört hier zur Negation und bedeutet "nicht" und ist daher wichtig bei einer negativen Antwort mit anzugeben. Die Frage kann auch direkt negativ formuliert werden
 
-	Hava güneşli değil mi? 
+> Hava güneşli değil mi? 
 
 Dies ist ein Beispiel für eine Ja-Nein-Frage in 3. Person. Wenn wir jemanden direkt mit einer Frage addressieren, so wird das Fragepartikel nach der großen Vokalharmonie entsprechend den Personalendungen dekliniert. Zum Beispiel mit der Frage 
 
-	Sen Alman mısın? <-> Bist du Deutsch?
+> Sen Alman mısın? <-> Bist du Deutsch?
 
 oder in der Höflichkeitsform
 
-	Siz Alman mısınız? <-> Sind sie Deutsch?
+> Siz Alman mısınız? <-> Sind sie Deutsch?
 
 ## Herkunftssuffix *-li*
 
 Über ein Herkunftssuffix kann jemand angeben oder fragen, ob dieser aus einer bestimmten Stadt kommt. Wichtig ist zu beachten, dass das Herkunftssuffix nur für Stadte und nicht für Länder benutzt wird. Herkunftssuffixe werden nach der großen Vokalharmonie dekliniert. Wir machen das Beispiel
 
-	Sen İstanbullu musun? <-> Bist du aus Istanbul?
+> Sen İstanbullu musun? <-> Bist du aus Istanbul?
 
 mit der Antwort
 
-	Evet, İstanbulluyum <-> Ja, ich bin aus Istanbul
+> Evet, İstanbulluyum <-> Ja, ich bin aus Istanbul
 
 oder 
 
-	Hayir, İstanbullu değilim.
+> Hayir, İstanbullu değilim.
 
 
