@@ -204,7 +204,7 @@ oder
 Es kann auch kurz nach der Herkunft mit dem Frageword <code>nereli</code> gefrägt werden. Dieses wird auch mit Personalendungen dekliniert. 
 
 > Sen İstanbullu musun? <-> Kommst du aus Istanbul?
-> Hayır, İstanbullu değilim. <-> Nein, ich komme nicht aus Istanbul.
+> > Hayır, İstanbullu değilim. <-> Nein, ich komme nicht aus Istanbul.
 > Nerelisin? <-> Wo kommst du her?
-> Ben Hamburgluyum <-> Ich komme aus Hamburg.
+> > Ben Hamburgluyum <-> Ich komme aus Hamburg.
 
