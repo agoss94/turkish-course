@@ -189,7 +189,7 @@ oder in der Höflichkeitsform
 
 ## Herkunftssuffix *-li*
 
-Über ein Herkunftssuffix kann jemand angeben oder fragen, ob dieser aus einer bestimmten Stadt kommt. Wichtig ist zu beachten, dass das Herkunftssuffix nur für Stadte und nicht für Länder benutzt wird. Herkunftssuffixe werden nach der großen Vokalharmonie dekliniert. Wir machen das Beispiel
+Über ein Herkunftssuffix kann jemand angeben oder fragen, ob dieser aus einer bestimmten Stadt kommt. Wichtig ist zu beachten, dass das Herkunftssuffix nur für Städte und nicht für Länder benutzt wird. Herkunftssuffixe werden nach der großen Vokalharmonie dekliniert. Wir machen das Beispiel
 
 > Sen İstanbullu musun? <-> Bist du aus Istanbul?
 
@@ -199,6 +199,12 @@ mit der Antwort
 
 oder 
 
-> Hayir, İstanbullu değilim.
+> Hayır, İstanbullu değilim.
 
+Es kann auch kurz nach der Herkunft mit dem Frageword <code>nereli</code> gefrägt werden. Dieses wird auch mit Personalendungen dekliniert. 
+
+> Sen İstanbullu musun? <-> Kommst du aus Istanbul?
+> Hayır, İstanbullu değilim. <-> Nein, ich komme nicht aus Istanbul.
+> Nerelisin? <-> Wo kommst du her?
+> Ben Hamburgluyum <-> Ich komme aus Hamburg.
 
