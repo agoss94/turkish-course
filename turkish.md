@@ -205,6 +205,7 @@ Es kann auch kurz nach der Herkunft mit dem Frageword <code>nereli</code> gefrä
 
 > Sen İstanbullu musun? <-> Kommst du aus Istanbul?
 > > Hayır, İstanbullu değilim. <-> Nein, ich komme nicht aus Istanbul.
+>
 > Nerelisin? <-> Wo kommst du her?
 > > Ben Hamburgluyum <-> Ich komme aus Hamburg.
 
