@@ -125,8 +125,8 @@ Das Türkische kennt wie die deutsche Sprache 6 Personalpronomen.
 | Sen | 2. Person Singular | Du |
 | O | 3. Person Singular | Er/ Sie/ Es |
 | Biz | 1. Person Plural | Wir |
-| Siz | 2. Person Plural | Sie |
-| Onlar | 3. Person Plural | Die |
+| Siz | 2. Person Plural | Ihr/Sie |
+| Onlar | 3. Person Plural | Sie |
 
 Deklinationen mit Personalpronomen folgen in der Regel immer der großen Vokalharmonie. Allerdings müssen wir zusätzlich unterscheiden, ob ein Wort auf einen Vokal endet oder einem Konsonanten. Bei Vokalendung erfordert die 1. und 4. Person einen zusätzlichen Bindekonsonant <code>y</code>. 
 
@@ -138,8 +138,8 @@ Wir verdeutlichen dies an den Beispielwörtern <code>öğretmen</code> und <code
 | 2. | Sen öğretmen**sin** | Du bist Lehrer |
 | 3. | O öğretmen | Er/ Sie/ Es ist Lehrer |
 | 4. | Biz öğretmen**iz** | Wir sind Lehrer |
-| 5. | Siz öğretmen**siniz** | Sie sind Lehrer |
-| 6. | Onlar öğretmen *oder* öğretmen**ler** | Die Lehrer |
+| 5. | Siz öğretmen**siniz** | Ihr seid Lehrer |
+| 6. | Onlar öğretmen *oder* öğretmen**ler** | Sie sind Lehrer |
 
 Die Personalendungen sing groß makiert und der/die Vokale werden nach der großen Vokalharmonie bestimmt. Bei Vokalendung sind die meisten Deklinationen gleich, allerdings haben die 1. und 4. Person einen Bindekonsonanten.
 
@@ -150,8 +150,8 @@ Die Personalendungen sing groß makiert und der/die Vokale werden nach der groß
 | 2. | Sen öğrenci**sin** | Du bist Schüler|
 | 3. | O öğrenci| Er/ Sie/ Es ist Schüler|
 | 4. | Biz öğrenci**yiz** | Wir sind Schüler|
-| 5. | Siz öğrenci**siniz** | Sie sind Schüler|
-| 6. | Onlar öğrenci <code>oder</code> öğrenci**ler** | Die Schüler|
+| 5. | Siz öğrenci**siniz** | Ihr seid Schüler|
+| 6. | Onlar öğrenci <code>oder</code> öğrenci**ler** | Sie sind Schüler|
 
 ## Fragepartikel *mi*
 Für einfache Ja-Nein-Fragen benutze wir Fragepartikel. Diese werden ebenfalls nach der großen Vokalharmonie dekliniert. 
@@ -228,5 +228,5 @@ Im ersten Fall endet das Verb auf einem Konsonant. Hier wird die *-yor* Endung m
 | 2. | Sen öğren**iyorsun** | Du lernst |
 | 3. | O öğren**iyor** | Er/ Sie/ Es lernt|
 | 4. | Biz öğren**iyoruz** | Wir lernen|
-| 5. | Siz öğren**iyorsunuz** | Sie lernen|
-| 6. | Onlar öğren**iyor** <code>oder</code> öğren**iyorlar** | Die lernen |
+| 5. | Siz öğren**iyorsunuz** | Ihr  lernt|
+| 6. | Onlar öğren**iyor** <code>oder</code> öğren**iyorlar** | Sie lernen |
