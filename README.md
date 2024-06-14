@@ -219,7 +219,7 @@ Vokalharmonie folgt.
 
 ### 1. Fall Konsonantenendung
 
-Im ersten Fall endet das Verb auf einem Konsonant. Hier wird die *-yor* Endung mit einem Bindevokal angehängt der Bindevokal wird nach der großen Vokalharmonie gebildet. 
+Im ersten Fall endet der Verbstamm auf einem Konsonanten. Hier wird die *-yor* Endung mit einem Bindevokal angehängt der Bindevokal wird nach der großen Vokalharmonie gebildet. 
 
 
 | Person | Beispiel | Übersetzung |
@@ -230,3 +230,17 @@ Im ersten Fall endet das Verb auf einem Konsonant. Hier wird die *-yor* Endung m
 | 4. | Biz öğren**iyoruz** | Wir lernen|
 | 5. | Siz öğren**iyorsunuz** | Ihr  lernt|
 | 6. | Onlar öğren**iyor** <code>oder</code> öğren**iyorlar** | Sie lernen |
+
+### 2. Fall Vokalendung
+
+Im zweiten Fall endet der Verbstamm auf einem Vokal. In diesem Fall wird kein Vokal vor dem *-yor* Sufix benötigt. 
+
+
+| Person | Beispiel | Übersetzung |
+|-|-|-|
+| 1. | Ben oku**yorum** | Ich lese |
+| 2. | Sen oku**yorsun** | Du liest |
+| 3. | O oku**yor** | Er/ Sie/ Es liest |
+| 4. | Biz oku**yoruz** | Wir lesen |
+| 5. | Siz oku**yorsunuz** | Ihr  lest |
+| 6. | Onlar oku**yor** <code>oder</code> oku**yorlar** | Sie lesen |
