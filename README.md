@@ -217,11 +217,11 @@ türkischen Satz das Personalpronomen als Subjekt wegfallen. Wenn der Verbstamm
 auf Konsonant auslautet, wird ein Bindevokal eingeschoben, der der großen
 Vokalharmonie folgt.
 
-### 1. Fall Konsonantenendung
+### 1. Fall: Konsonantenendung
 
 Im ersten Fall endet der Verbstamm auf einem Konsonanten. Hier wird die *-yor* Endung mit einem Bindevokal angehängt der Bindevokal wird nach der großen Vokalharmonie gebildet. 
 
-
+Beispiel: <code>öğrenmek</code>
 | Person | Beispiel | Übersetzung |
 |-|-|-|
 | 1. | Ben öğren**iyorum** | Ich lerne |
@@ -231,11 +231,11 @@ Im ersten Fall endet der Verbstamm auf einem Konsonanten. Hier wird die *-yor* E
 | 5. | Siz öğren**iyorsunuz** | Ihr  lernt|
 | 6. | Onlar öğren**iyor** <code>oder</code> öğren**iyorlar** | Sie lernen |
 
-### 2. Fall Vokalendung
+### 2. Fall: Vokalendung
 
-Im zweiten Fall endet der Verbstamm auf einem Vokal. In diesem Fall wird kein Vokal vor dem *-yor* Sufix benötigt. 
+Im zweiten Fall endet der Verbstamm auf einem Vokal, nicht aber auf den Vokal a oder e. In diesem Fall wird kein Vokal vor dem *-yor* Sufix benötigt. 
 
-
+Beispiel: <code>okumak</code>
 | Person | Beispiel | Übersetzung |
 |-|-|-|
 | 1. | Ben oku**yorum** | Ich lese |
@@ -244,3 +244,28 @@ Im zweiten Fall endet der Verbstamm auf einem Vokal. In diesem Fall wird kein Vo
 | 4. | Biz oku**yoruz** | Wir lesen |
 | 5. | Siz oku**yorsunuz** | Ihr  lest |
 | 6. | Onlar oku**yor** <code>oder</code> oku**yorlar** | Sie lesen |
+
+### 3. Fall: Vokalendung -a/ -e
+
+In diesem Fall wird der Voakl am Ende fallen gelassen und nach Fall 1. das Präsens gebildet.
+
+Beispiel: <code>oynamak</code>
+
+| Person | Beispiel | Übersetzung |
+|-|-|-|
+| 1. | Ben oyn**uyorum** | Ich spiele |
+| 2. | Sen oyn**uyorsun** | Du spielst |
+| 3. | O oyn**uyor** | Er/ Sie/ Es spielt |
+| 4. | Biz oyn**uyoruz** | Wir spielen |
+| 5. | Siz oyn**uyorsunuz** | Ihr  spielt |
+| 6. | Onlar oyn**uyor** <code>oder</code> oyn**uyorlar** | Sie spielen |
+
+### 4. Fall: Unregelmäßige Ausnahmen
+
+Die Verben <code>gitmek</code>, <code>etmek</code>, <code>tatmak</code> und <code>seyretmek</code> bilden unregelmäßige Ausnahmen. In diesen Fällen wird das t am Ende des Verbstamms zu einem d abgewandelt.
+
+> Ben gidiyorum <-> Ich gehe
+
+
+ 
+
