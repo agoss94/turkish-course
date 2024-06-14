@@ -211,7 +211,7 @@ Es kann auch kurz nach der Herkunft mit dem Frageword <code>nereli</code> gefrä
 
 # Verneinung
 
-Vollverben werden im türkischen mit den Sufixen *me* und *ma* verneint. Diese werden an den Verbstamm nach der kleinen Vokalharmonie angehängt.
+Vollverben werden im türkischen mit den suffixen *me* und *ma* verneint. Diese werden an den Verbstamm nach der kleinen Vokalharmonie angehängt.
 
 > istemek -> istememek
 > okumak -> okumamak
@@ -240,7 +240,7 @@ Beispiel: <code>öğrenmek</code>
 
 ### 2. Fall: Vokalendung
 
-Im zweiten Fall endet der Verbstamm auf einem Vokal, nicht aber auf den Vokal a oder e. In diesem Fall wird kein Vokal vor dem *-yor* Sufix benötigt. 
+Im zweiten Fall endet der Verbstamm auf einem Vokal, nicht aber auf den Vokal a oder e. In diesem Fall wird kein Vokal vor dem *-yor* Suffix benötigt. 
 
 Beispiel: <code>okumak</code>
 | Person | Beispiel | Übersetzung |
@@ -276,6 +276,37 @@ Die Verben <code>gitmek</code>, <code>etmek</code>, <code>tatmak</code> und <cod
 > Ben gidiyorum <-> Ich gehe
 
 **Wichtig:** Diese Regel wird nicht bei verneinten Verben angewendet!
+
+# Possesivpronomen und Possesivsuffixe
+
+Possessivpronomen und Possessivsuffixe drücken Besitz oder Zugehörigkeit aus. Bei Possesiven wird nach Konsonanten und Vokalen unterschieden. Darüber hinaus kann es bei der dritten Person einen Bindekonsonanten geben.
+
+| Pronom | Person | Übersetzung |
+|-|-|-|
+| Benim | 1. Person Singular | Mein |
+| Senin | 2. Person Singular | Dein |
+| Onun | 3. Person Singular | Sein/ Ihr/ Sein |
+| Bizem | 1. Person Plural | Unser |
+| Sizin | 2. Person Plural | Euer |
+| Onların | 3. Person Plural | Ihr |
+
+| Person | Beispiel | Übersetzung |
+|-|-|-|
+| 1. | Benim öğretmen**im** | Mein Lehrer |
+| 2. | Senin öğretmen**in** | Dein Lehrer |
+| 3. | Onun öğretmen**i** | Sein/ Ihr/ Sein Lehrer |
+| 4. | Bizem öğretmen**imiz** | Unser Lehrer |
+| 5. | Sizen öğretmen**iniz** | Euer Lehrer |
+| 6. | Onlarin öğretmen**i** *oder* öğretmen**leri** | Ihr Lehrer |
+
+| Person | Beispiel | Übersetzung |
+|-|-|-|
+| 1. | Benim öğrenci**m** | Mein Schüler |
+| 2. | Sen öğrenci**n** | Dein Schüler|
+| 3. | O öğrenci**si**| Sein/ Ihr/ Sein Schüler|
+| 4. | Biz öğrenci**miz** | Unser Schüler|
+| 5. | Siz öğrenci**niz** | Euer Schüler|
+| 6. | Onlar öğrenci**si** <code>oder</code> öğrenci**leri** | Ihr Schüler|
 
 
  
