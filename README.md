@@ -209,6 +209,13 @@ Es kann auch kurz nach der Herkunft mit dem Frageword <code>nereli</code> gefrä
 > Nerelisin? <-> Wo kommst du her?
 > > Ben Hamburgluyum <-> Ich komme aus Hamburg.
 
+# Verneinung
+
+Vollverben werden im türkischen mit den Sufixen *me* und *ma* verneint. Diese werden an den Verbstamm nach der kleinen Vokalharmonie angehängt.
+
+> istemek -> istememek
+> okumak -> okumamak
+
 ## Das *-yor* Präsens
 
 m Präsens wird an den Verbstamm die Zeitendung -yor und die Personalendung
@@ -260,11 +267,15 @@ Beispiel: <code>oynamak</code>
 | 5. | Siz oyn**uyorsunuz** | Ihr  spielt |
 | 6. | Onlar oyn**uyor** <code>oder</code> oyn**uyorlar** | Sie spielen |
 
+**Wichtig:** Diese Regel wird nicht bei verneinten Verben angewendet!
+
 ### 4. Fall: Unregelmäßige Ausnahmen
 
 Die Verben <code>gitmek</code>, <code>etmek</code>, <code>tatmak</code> und <code>seyretmek</code> bilden unregelmäßige Ausnahmen. In diesen Fällen wird das t am Ende des Verbstamms zu einem d abgewandelt.
 
 > Ben gidiyorum <-> Ich gehe
+
+**Wichtig:** Diese Regel wird nicht bei verneinten Verben angewendet!
 
 
  
